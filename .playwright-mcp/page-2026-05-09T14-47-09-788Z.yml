@@ -1,0 +1,22 @@
+- generic [ref=e496]:
+  - banner [ref=e497]:
+    - generic [ref=e498]:
+      - generic [ref=e499]: GREENKART
+      - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e500] [cursor=pointer]:
+        - /url: https://techsmarthire.com/
+      - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e501] [cursor=pointer]:
+        - /url: https://techsmarthire.com/
+  - generic [ref=e503]:
+    - generic [ref=e504]:
+      - img "empty-cart" [ref=e505]
+      - heading "You cart is empty!" [level=2] [ref=e506]
+    - generic [ref=e507]:
+      - generic [ref=e508]:
+        - textbox "Enter promo code" [ref=e509]
+        - button "Apply" [ref=e510] [cursor=pointer]
+      - text: "No. of Items : null"
+      - text: "Total Amount :"
+      - generic [ref=e511]: "null"
+      - text: "Discount : 0%"
+      - text: "Total After Discount : null"
+      - button "Place Order" [ref=e512] [cursor=pointer]
